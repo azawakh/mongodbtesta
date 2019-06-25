@@ -1,0 +1,14 @@
+{
+  "name": "mongodbtesta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/azawakh/mongodbtesta.git",
+  "author": "azawakh <azawakhh@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "MONGO_USER='azawakh' MONGO_PASSWORD='7$u_f)78tuHc' node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
